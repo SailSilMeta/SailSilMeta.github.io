@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>你好中国</title>
-    <link href="/2026/05/18/%E6%B5%8B%E8%AF%95%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <url>/2026/05/18/%E6%B5%8B%E8%AF%95%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <title>关于我这个博客的README</title>
+    <link href="/2026/05/18/%E5%85%B3%E4%BA%8E%E6%88%91%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%9A%84README/"/>
+    <url>/2026/05/18/%E5%85%B3%E4%BA%8E%E6%88%91%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%9A%84README/</url>
     
-    <content type="html"><![CDATA[<p>这是我的第一篇文章，正在简单测试当中</p>]]></content>
+    <content type="html"><![CDATA[<p>以往我都是使用一些免费的建站网站进行可视化部署，但是却有时间限制，不能保持长久免费。而我也从来没有试过自己手动从0开始部署过一个网站。紧接着，我就开始了解相关的建站技术，于是就有了这篇文章。</p><h2 id="1-建站前言"><a href="#1-建站前言" class="headerlink" title="1.建站前言"></a>1.建站前言</h2><p>我了解到可以借用github Pages搭建一个无服务器的个人博客，然后博客的框架我是使用的hexo。</p><p>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p><p>然后具体的主题风格就是Fluid，我也和精美、多功能的Butterfly主题对比过，但是相较而言，我认为Fluid的框架足够稳定，各种平台打开都很快速流畅。</p>]]></content>
     
     
     
